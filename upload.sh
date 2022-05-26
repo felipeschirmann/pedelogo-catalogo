@@ -1,0 +1,1 @@
+docker push felipeschirmann/pedelogo-catalogo:$1
